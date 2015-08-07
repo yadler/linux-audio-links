@@ -27,3 +27,4 @@ Some links to interesting linux audio software (mostly plugins)
 * [carla](http://kxstudio.linuxaudio.org/Applications:Carla) - can bridge multiple plugin formats (say lv2 to vst)
 * [renoise](http://www.renoise.com/p) - tracker
 * [bitwig](https://www.bitwig.com/) - ableton inspired DAW
+* [Ardour](http://ardour.org/) - platform independent DAW with a focus on Linux

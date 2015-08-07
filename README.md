@@ -13,6 +13,11 @@ Some links to interesting linux audio software (mostly plugins)
 * [mucoder tonespace](http://www.mucoder.net/en/tonespace/) - chord generator
 * [Calf Studio Gear](http://calf-studio-gear.org/) - LV2 plugins
 * [Linux Sampler](http://www.linuxsampler.org/) - a sampler similar to [NI's Kontakt](http://www.native-instruments.com/de/products/komplete/samplers/kontakt-5/)
+* [Virtual ANS](http://www.warmplace.ru/soft/ans/) - strange spectral synthesizer for Linux, Mac, Windows as well as Android and iOS written in the esoteric PixiLang programming language
+
+# Editors
+
+* [ocenaudio](http://www.ocenaudio.com.br/) - fast and nice looking audio editor
 
 ## commercial
 

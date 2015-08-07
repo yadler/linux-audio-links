@@ -12,7 +12,7 @@ Some links to interesting linux audio software (mostly plugins)
 * [protoplug](http://www.osar.fr/protoplug/) - plugin prototyping with Lua
 * [mucoder tonespace](http://www.mucoder.net/en/tonespace/) - chord generator
 * [Calf Studio Gear](http://calf-studio-gear.org/) - LV2 plugins
-* 
+
 ## commercial
 
 * [renoise redux](http://www.renoise.com/products/redux) - awesome tracker style sampler

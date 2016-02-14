@@ -35,3 +35,4 @@ Some links to interesting linux audio software (mostly plugins)
 * [renoise](http://www.renoise.com/p) - tracker
 * [bitwig](https://www.bitwig.com/) - ableton inspired DAW
 * [Ardour](http://ardour.org/) - platform independent DAW with a focus on Linux
+- [lmms](https://github.com/LMMS/lmms) Linux Multimedia Studio, a fruity loops like DAW
